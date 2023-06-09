@@ -1,5 +1,4 @@
-# CRUD-operation-using-Django
-This is a README file for a CRUD (Create, Read, Update, Delete) operation project implemented using Django framework. The project allows you to perform basic database operations on a specific data model through a web interface.
+
 
 Project Overview
 The CRUD operation project using Django aims to demonstrate the implementation of a simple web application that interacts with a database. The project follows the MVC (Model-View-Controller) architecture, where Django provides a robust framework for handling the backend logic.
